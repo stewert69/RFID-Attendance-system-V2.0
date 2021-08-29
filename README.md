@@ -1,6 +1,6 @@
 # RFID-Attendance-system
 
-There was a missing file to update the admin  password, so i created one. It's not glamorous, but it gets the job done.
+There was a missing file to update the admin  password, so I created one. It's not glamorous, but it gets the job done.
 
 Original created by InfinityWorldHI
 
