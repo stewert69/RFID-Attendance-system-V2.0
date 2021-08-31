@@ -1,6 +1,7 @@
 # RFID-Attendance-system
 
 There was a missing file to update the admin  password, so I created one. It's not glamorous, but it gets the job done.
+Lines 7 and 11 need to be updated in the reset_pass.php file.
 
 Original created by InfinityWorldHI
 
